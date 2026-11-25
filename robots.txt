@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://christian-tuyizere.netlify.app/sitemap.xml
+Sitemap: https://christian-tuyizere.github.io/sitemap.xml
